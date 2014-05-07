@@ -1,0 +1,17 @@
+.head-nav{
+	width: 100% !important;
+}
+.container{
+	padding: 0px !important;
+	margin: 0px !important;
+    width: 100% !important;
+}
+.navbar-header,.nav,.navbar-nav{
+	width: 100% !important;
+}
+.left-navigation{
+	max-width: 200px;
+	min-width: 50px;
+	position: fixed;
+	height: 100%;
+}
